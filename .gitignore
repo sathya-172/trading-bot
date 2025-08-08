@@ -1,0 +1,22 @@
+# --- General ---
+node_modules/
+.env
+*.log
+.DS_Store
+
+# --- Backend-specific ---
+backend/node_modules/
+backend/data/
+backend/logs/
+backend/*.log
+
+# --- Frontend-specific ---
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/*.log
+
+# --- OS / Editor junk ---
+.vscode/
+*.swp
+*.tmp

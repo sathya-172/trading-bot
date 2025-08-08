@@ -1,0 +1,23 @@
+{
+  "name": "fyers-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dayjs": "^1.11.13",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "fyers-api-v3": "^1.4.2",
+    "node-cron": "^4.2.1",
+    "node-schedule": "^2.1.1",
+    "open": "^10.2.0"
+  }
+}
