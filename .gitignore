@@ -9,10 +9,10 @@ backend/node_modules/
 backend/.env
 
 # --- Frontend-specific ---
-# frontend/node_modules/
-# frontend/.next/
-# frontend/dist/
-# frontend/.env
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+frontend/.env
 
 # --- OS / Editor junk ---
 .vscode/
