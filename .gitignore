@@ -6,6 +6,7 @@ node_modules/
 # --- Backend-specific ---
 backend/node_modules/
 backend/.env
+backend/fyers-access-token.txt
 
 # --- Frontend-specific ---
 frontend/node_modules/
